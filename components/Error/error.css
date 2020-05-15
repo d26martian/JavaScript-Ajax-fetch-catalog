@@ -1,0 +1,17 @@
+#error {
+    height: 100vh;
+}
+.error {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.error__content {
+    width: 100%;
+    padding: 20px 40px;
+    text-align: center;
+    background: var(--color-error);
+    box-shadow: 0 1px 5px var(--color-red-dark);
+    color: var(--color-white);
+}

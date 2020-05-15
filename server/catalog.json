@@ -1,0 +1,74 @@
+[
+  {
+    "id": "el1",
+    "name": "Солнечная батарея SilaSolar 30Вт ( SilaSolar 5BB )",
+    "img": "https://i.ibb.co/fN9BcCC/panel.jpg",
+    "price": 2115
+  },
+  {
+    "id": "el2",
+    "name": "Солнечная батарея SilaSolar 50Вт ( 5BB )",
+    "img": "https://i.ibb.co/fN9BcCC/panel.jpg",
+    "price": 3030
+  },
+  {
+    "id": "el3",
+    "name": "Солнечная батарея SilaSolar 100Вт",
+    "img": "https://i.ibb.co/fN9BcCC/panel.jpg",
+    "price": 4440
+  },
+  {
+    "id": "el4",
+    "name": "Солнечная батарея SilaSolar 150Вт ( SilaSolar 5BB )",
+    "img": "https://i.ibb.co/fN9BcCC/panel.jpg",
+    "price": 5773
+  },
+  {
+    "id": "el5",
+    "name": "Солнечная батарея SilaSolar 30Вт ( SilaSolar 5BB )",
+    "img": "https://i.ibb.co/fN9BcCC/panel.jpg",
+    "price": 2115
+  },
+  {
+    "id": "el6",
+    "name": "Солнечная батарея SilaSolar 50Вт ( 5BB )",
+    "img": "https://i.ibb.co/fN9BcCC/panel.jpg",
+    "price": 3030
+  },
+  {
+    "id": "el7",
+    "name": "Солнечная батарея SilaSolar 100Вт",
+    "img": "https://i.ibb.co/fN9BcCC/panel.jpg",
+    "price": 4440
+  },
+  {
+    "id": "el8",
+    "name": "Солнечная батарея SilaSolar 150Вт ( SilaSolar 5BB )",
+    "img": "https://i.ibb.co/fN9BcCC/panel.jpg",
+    "price": 5773
+  },
+  {
+    "id": "el9",
+    "name": "Солнечная батарея SilaSolar 30Вт ( SilaSolar 5BB )",
+    "img": "https://i.ibb.co/fN9BcCC/panel.jpg",
+    "price": 2115
+  },
+  {
+    "id": "el10",
+    "name": "Солнечная батарея SilaSolar 50Вт ( 5BB )",
+    "img": "https://i.ibb.co/fN9BcCC/panel.jpg",
+    "price": 3030
+  },
+  {
+    "id": "el11",
+    "name": "Солнечная батарея SilaSolar 100Вт",
+    "img": "https://i.ibb.co/fN9BcCC/panel.jpg",
+    "price": 4440
+  },
+  {
+    "id": "el12",
+    "name": "Солнечная батарея SilaSolar 150Вт ( SilaSolar 5BB )",
+    "img": "https://i.ibb.co/fN9BcCC/panel.jpg",
+    "price": 5773
+  }
+]
